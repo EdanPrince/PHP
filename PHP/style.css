@@ -1,0 +1,15 @@
+
+.name{
+    margin: 10px;
+    border: 1px solid red;
+}
+.age{
+    margin-left: 67.5px;
+    margin-bottom: 10px;
+    border: 1px solid red;
+}
+.score{
+    margin-left: 61.5px;
+    border: 1px solid red;
+    margin-bottom: 10px;
+}
